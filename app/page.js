@@ -12,7 +12,7 @@ const [inputValue, setInputValue] = useState('');
 
   return (
     <>
-    <div className="navbar bg-purple-950 flex justify-between px-2 py-4">
+    <div className="navbar bg-fuchsia-950 flex justify-between px-2 py-4">
       <div className="leftnav flex gap-8">
         <p className="text-white text-xl"><FaArrowLeft/></p>
         <p className="text-white">Help</p>
