@@ -19,7 +19,7 @@ const [inputValue, setInputValue] = useState('');
       </div>
       <div className="rightnav text-white text-sm">VIEW TICKETS</div>
     </div>
-    <div className="bg-purple-700 text-right pb-2 pr-1 pt-1">
+    <div className="bg-violet-900	 text-right pb-3 pr-1 pt-1">
       <p className="text-white font-semibold	 text-[12px]">CHANGE LANGUAGE</p>
     </div>
       <div className="max-w-md mx-auto my-8 p-4 rounded-lg">
