@@ -26,13 +26,13 @@ const [inputValue, setInputValue] = useState('');
       <div className="left-chat-top flex ">
 <div className="invisible">jhdjj</div>
 <div className="bg-violet-50 py-3 px-5 rounded-md">
-  <p className="text-blue-700 text-[12px]	font-semibold">I am sorry to know that, ******5472</p>
+  <p className="text-blue-700 text-[11px]	font-semibold">I am sorry to know that, ******5472</p>
 </div>
       </div>
-      <div className="left-chat-top flex gap-3">
+      <div className="left-chat-top flex gap-3 mt-3">
 <img className="h-6 w-6" src="./phonepaylogo.png" />
 <div className="bg-violet-50 py-3 px-4 rounded-md ">
-  <p className="text-blue-700 text-[12px]	font-semibold">Please help me understand why you made a payment to a froudest</p>
+  <p className="text-blue-700 text-[11px]	font-semibold">Please help me understand why you made a payment to a froudest</p>
 </div>
       </div>
 
