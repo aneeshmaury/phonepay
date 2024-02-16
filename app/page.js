@@ -26,7 +26,7 @@ const [inputValue, setInputValue] = useState('');
       <div className="left-chat-top flex ">
 <div className="invisible">jhdjj</div>
 <div className="bg-violet-50">
-  <p className="text-blue-700 text-[13px]	">I am sorry to know that, ******5472</p>
+  <p className="text-blue-700 text-[12px]	font-semibold">I am sorry to know that, ******5472</p>
 </div>
       </div>
 
