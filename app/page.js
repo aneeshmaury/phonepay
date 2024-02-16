@@ -25,8 +25,8 @@ const [inputValue, setInputValue] = useState('');
       <div className="max-w-md mx-auto my-8 p-4 rounded-lg">
       <div className="left-chat-top ">
 <div></div>
-<div className="bg-violet-100">
-  <p className="text-violet-700">I am sorry to know that, ******5472</p>
+<div className="bg-violet-50">
+  <p className="text-violet-900">I am sorry to know that, ******5472</p>
 </div>
       </div>
 
