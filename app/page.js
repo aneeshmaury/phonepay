@@ -23,10 +23,10 @@ const [inputValue, setInputValue] = useState('');
       <p className="text-white font-semibold	 text-[12px]">CHANGE LANGUAGE</p>
     </div>
       <div className="max-w-md mx-auto my-8 p-4 rounded-lg">
-      <div className="left-chat-top ">
-<div></div>
+      <div className="left-chat-top flex ">
+<div className="invisible">jhdjj</div>
 <div className="bg-violet-50">
-  <p className="text-blue-700	">I am sorry to know that, ******5472</p>
+  <p className="text-blue-700 text-[10px]	">I am sorry to know that, ******5472</p>
 </div>
       </div>
 
