@@ -29,6 +29,12 @@ const [inputValue, setInputValue] = useState('');
   <p className="text-blue-700 text-[12px]	font-semibold">I am sorry to know that, ******5472</p>
 </div>
       </div>
+      <div className="left-chat-top flex gap-3">
+<img className="h-5 w-5" src="./phonepaylogo.png" />
+<div className="bg-violet-50 py-3 px-5 rounded-md ">
+  <p className="text-blue-700 text-[12px]	font-semibold">Please help me understand why you made a payment to a froudest</p>
+</div>
+      </div>
 
 
       {/* More messages can be added here */}
